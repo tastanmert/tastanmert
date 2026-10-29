@@ -2,7 +2,7 @@
 
 <br>
 
-### A few things I've built
+### Open source
 
 <table>
 <tr>
@@ -24,6 +24,46 @@ A free, open-source Mac cleaner. Find the clutter, review it, send it to the Tra
 A floating shelf for your Mac. Drag files in, switch apps, drop them where they belong.
 
 [Explore project →](https://github.com/tastanmert/Stash) · [Download](https://github.com/tastanmert/Stash/releases/latest)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### Apps & websites
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://apps.apple.com/app/id6761612532"><img src="assets/macouple.jpg" width="56" height="56" alt="MaCouple app icon"></a>
+
+#### [MaCouple](https://apps.apple.com/app/id6761612532)
+
+Question games for two. Pair with your partner, compare answers, and save shared memories.
+
+[App Store →](https://apps.apple.com/app/id6761612532)
+
+</td>
+<td width="50%" valign="top">
+<a href="https://apps.apple.com/app/id6813392305"><img src="assets/picdecide.jpg" width="56" height="56" alt="PicDecide app icon"></a>
+
+#### [PicDecide](https://apps.apple.com/app/id6813392305)
+
+A private photo cleanup app for iPhone. Keep, set aside, or revisit — review before you delete.
+
+[App Store →](https://apps.apple.com/app/id6813392305)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+#### [Rezervs](https://rezervs.com)
+
+Bookings, staff, services, and customer records for appointment-based businesses. Let customers book online, around the clock.
+
+[Visit website →](https://rezervs.com)
 
 </td>
 </tr>
