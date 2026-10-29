@@ -3,6 +3,7 @@
 <br>
 
 <table>
+<tbody>
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/tastanmert/CleanMac"><img src="assets/cleanmac.png" width="56" height="56" alt="CleanMac icon"></a>
@@ -25,7 +26,9 @@ A floating shelf for your Mac. Drag files in, switch apps, drop them where they 
 
 </td>
 </tr>
+</tbody>
 
+<tbody>
 <tr>
 <td width="50%" valign="top">
 <a href="https://apps.apple.com/app/id6761612532"><img src="assets/macouple-rounded.png" width="56" height="56" alt="MaCouple app icon"></a>
@@ -48,8 +51,10 @@ A private photo cleanup app for iPhone. Keep, set aside, or revisit — review b
 
 </td>
 </tr>
+</tbody>
+<tbody>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 <a href="https://rezervs.com"><img src="assets/rezervs-rounded.png" width="56" height="56" alt="Rezervs app icon"></a>
 
@@ -60,7 +65,9 @@ Bookings, staff, services, and customer records for appointment-based businesses
 [Visit website →](https://rezervs.com)
 
 </td>
+<td width="50%" valign="top"></td>
 </tr>
+</tbody>
 </table>
 
 <br>
