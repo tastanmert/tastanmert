@@ -1,4 +1,4 @@
-<a href="https://www.merttastan.com"><img src="assets/header.svg" width="1200" alt="Mert Taştan — I build somethings. Apps, websites & automations. İstanbul."></a>
+<a href="https://www.merttastan.com"><img src="assets/workspace.svg" width="960" alt="An animated pixel-art workspace with a night window, desk lamp, plant and steaming coffee."></a>
 
 <br>
 
