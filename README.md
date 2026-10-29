@@ -23,7 +23,7 @@ A free, open-source Mac cleaner. Find the clutter, review it, send it to the Tra
 
 A floating shelf for your Mac. Drag files in, switch apps, drop them where they belong.
 
-[Explore project →](https://github.com/tastanmert/Stash)
+[Explore project →](https://github.com/tastanmert/Stash) · [Download](https://github.com/tastanmert/Stash/releases/latest)
 
 </td>
 </tr>
