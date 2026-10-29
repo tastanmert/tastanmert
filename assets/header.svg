@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Mert Taştan — I build somethings.</title>
+  <desc id="desc">An orange line turns a loose idea into a small spark, beside Mert's personal motto on a charcoal canvas.</desc>
+  <rect width="1200" height="420" rx="20" fill="#17191b"/>
+  <g fill="#f4f0e8" font-family="Verdana, DejaVu Sans, sans-serif">
+    <text x="64" y="72" font-size="24">Mert Taştan</text>
+    <text x="60" y="187" font-size="83" font-weight="bold" letter-spacing="-4">I build</text>
+    <text x="60" y="282" font-size="83" font-weight="bold" letter-spacing="-4">somethings.</text>
+  </g>
+  <path d="M65 312 C170 302 335 301 524 309" fill="none" stroke="#eaa475" stroke-width="4" stroke-linecap="round"/>
+  <g fill="none" stroke="#eaa475" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M746 323 C655 248 830 180 896 224 C960 266 838 337 797 277 C749 206 889 95 966 159 C1031 212 904 298 864 235 C825 175 954 127 1002 207 C1036 265 1036 285 1100 266"/>
+    <path d="M1090 241 L1100 266 L1124 257"/>
+    <path d="M1064 119 L1064 145 M1051 132 L1077 132"/>
+  </g>
+  <text x="65" y="371" fill="#b8b8b3" font-family="Verdana, DejaVu Sans, sans-serif" font-size="20">Apps, websites &amp; automations.</text>
+  <text x="1135" y="371" text-anchor="end" fill="#b8b8b3" font-family="Verdana, DejaVu Sans, sans-serif" font-size="20">İstanbul</text>
+</svg>
