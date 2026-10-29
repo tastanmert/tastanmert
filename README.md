@@ -72,16 +72,4 @@ Bookings, staff, services, and customer records for appointment-based businesses
 
 <br>
 
-### A little motion
-
-My contribution calendar, with a twist.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/snake-light.svg">
-  <img src="assets/snake-light.svg" width="100%" alt="An orange snake moves across my GitHub contribution calendar, eating the contribution squares.">
-</picture>
-
-<br>
-
 **More beyond GitHub** — apps, experiments, and the rest at [merttastan.com ↗](https://www.merttastan.com).
