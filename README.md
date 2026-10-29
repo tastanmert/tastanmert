@@ -2,8 +2,6 @@
 
 <br>
 
-### Open source
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -27,16 +25,10 @@ A floating shelf for your Mac. Drag files in, switch apps, drop them where they 
 
 </td>
 </tr>
-</table>
 
-<br>
-
-### Apps & websites
-
-<table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://apps.apple.com/app/id6761612532"><img src="assets/macouple.jpg" width="56" height="56" alt="MaCouple app icon"></a>
+<a href="https://apps.apple.com/app/id6761612532"><img src="assets/macouple-rounded.png" width="56" height="56" alt="MaCouple app icon"></a>
 
 #### [MaCouple](https://apps.apple.com/app/id6761612532)
 
@@ -46,7 +38,7 @@ Question games for two. Pair with your partner, compare answers, and save shared
 
 </td>
 <td width="50%" valign="top">
-<a href="https://apps.apple.com/app/id6813392305"><img src="assets/picdecide.jpg" width="56" height="56" alt="PicDecide app icon"></a>
+<a href="https://apps.apple.com/app/id6813392305"><img src="assets/picdecide-rounded.png" width="56" height="56" alt="PicDecide app icon"></a>
 
 #### [PicDecide](https://apps.apple.com/app/id6813392305)
 
@@ -58,6 +50,8 @@ A private photo cleanup app for iPhone. Keep, set aside, or revisit — review b
 </tr>
 <tr>
 <td colspan="2" valign="top">
+
+<a href="https://rezervs.com"><img src="assets/rezervs-rounded.png" width="56" height="56" alt="Rezervs app icon"></a>
 
 #### [Rezervs](https://rezervs.com)
 
