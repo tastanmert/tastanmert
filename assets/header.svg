@@ -1,18 +1,44 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
-  <title id="title">Mert Taştan — I build somethings.</title>
-  <desc id="desc">An orange line turns a loose idea into a small spark, beside Mert's personal motto on a charcoal canvas.</desc>
-  <rect width="1200" height="420" rx="20" fill="#17191b"/>
-  <g fill="#f4f0e8" font-family="Verdana, DejaVu Sans, sans-serif">
-    <text x="64" y="72" font-size="24">Mert Taştan</text>
-    <text x="60" y="187" font-size="83" font-weight="bold" letter-spacing="-4">I build</text>
-    <text x="60" y="282" font-size="83" font-weight="bold" letter-spacing="-4">somethings.</text>
-  </g>
-  <path d="M65 312 C170 302 335 301 524 309" fill="none" stroke="#eaa475" stroke-width="4" stroke-linecap="round"/>
-  <g fill="none" stroke="#eaa475" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M746 323 C655 248 830 180 896 224 C960 266 838 337 797 277 C749 206 889 95 966 159 C1031 212 904 298 864 235 C825 175 954 127 1002 207 C1036 265 1036 285 1100 266"/>
-    <path d="M1090 241 L1100 266 L1124 257"/>
-    <path d="M1064 119 L1064 145 M1051 132 L1077 132"/>
-  </g>
-  <text x="65" y="371" fill="#b8b8b3" font-family="Verdana, DejaVu Sans, sans-serif" font-size="20">Apps, websites &amp; automations.</text>
-  <text x="1135" y="371" text-anchor="end" fill="#b8b8b3" font-family="Verdana, DejaVu Sans, sans-serif" font-size="20">İstanbul</text>
+<title id="title">Mert Taştan — I build somethings.</title>
+<desc id="desc">A small application comes together beside Mert's motto. Apps, websites and automations, from İstanbul.</desc>
+<style>
+@keyframes trace {0%,12%{stroke-dashoffset:500}42%,88%{stroke-dashoffset:0}100%{stroke-dashoffset:0}}
+@keyframes reveal {0%,25%{opacity:.25;transform:translateY(8px)}45%,100%{opacity:1;transform:translateY(0)}}
+@keyframes check {0%,46%{stroke-dashoffset:50}62%,100%{stroke-dashoffset:0}}
+@keyframes line {0%,8%{stroke-dashoffset:470}38%,100%{stroke-dashoffset:0}}
+.outline{stroke-dasharray:500;animation:trace 8s ease-in-out infinite}
+.content{animation:reveal 8s ease-in-out infinite}
+.check{stroke-dasharray:50;animation:check 8s ease-in-out infinite}
+.underline{stroke-dasharray:470;animation:line 8s ease-in-out infinite}
+@media(prefers-reduced-motion:reduce){.outline,.content,.check,.underline{animation:none}}
+</style>
+<rect width="1200" height="420" rx="20" fill="#17191b"/>
+<g fill="#f4f0e8" font-family="Verdana, DejaVu Sans, sans-serif">
+<text x="64" y="72" font-size="24">Mert Taştan</text>
+<text x="60" y="187" font-size="83" font-weight="bold" letter-spacing="-4">I build</text>
+<text x="60" y="282" font-size="83" font-weight="bold" letter-spacing="-4">somethings.</text>
+</g>
+<path class="underline" d="M65 312 C170 302 335 301 524 309" fill="none" stroke="#eaa475" stroke-width="4" stroke-linecap="round"/>
+<g transform="translate(758 92)">
+<rect x="30" y="-16" width="298" height="224" rx="16" fill="#202326" stroke="#42474a" stroke-width="2"/>
+<rect x="0" y="20" width="310" height="232" rx="16" fill="#202326" stroke="#eaa475" stroke-opacity=".35" stroke-width="2"/>
+<rect class="outline" x="0" y="20" width="310" height="232" rx="16" pathLength="500" fill="none" stroke="#eaa475" stroke-width="2.5"/>
+<path d="M1 64 H309" stroke="#42474a" stroke-width="2"/>
+<circle cx="22" cy="42" r="4.5" fill="#ed9187"/><circle cx="40" cy="42" r="4.5" fill="#e8c17c"/><circle cx="58" cy="42" r="4.5" fill="#9aba99"/>
+<g class="content">
+<rect x="24" y="88" width="65" height="65" rx="16" fill="#eaa475"/>
+<g fill="none" stroke="#17191b" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M43 113 V109 A4 4 0 0 1 47 105 H56 L62 111 H72 V135 H43 Z"/>
+</g>
+<rect x="110" y="100" width="153" height="9" rx="4.5" fill="#f4f0e8"/>
+<rect x="110" y="121" width="115" height="7" rx="3.5" fill="#8c9398"/>
+<rect x="110" y="140" width="138" height="7" rx="3.5" fill="#8c9398"/>
+<path d="M24 176 H286" stroke="#42474a"/>
+<text x="25" y="214" font-family="Verdana, DejaVu Sans, sans-serif" font-size="17" fill="#f4f0e8">Built to be used.</text>
+<circle cx="268" cy="208" r="15" fill="#2e3c32"/>
+<path class="check" d="M260 208 L266 214 L277 201" pathLength="50" fill="none" stroke="#afcba7" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<text x="65" y="371" fill="#b8b8b3" font-family="Verdana, DejaVu Sans, sans-serif" font-size="20">Apps, websites &amp; automations.</text>
+<text x="1135" y="371" text-anchor="end" fill="#b8b8b3" font-family="Verdana, DejaVu Sans, sans-serif" font-size="20">İstanbul</text>
 </svg>
